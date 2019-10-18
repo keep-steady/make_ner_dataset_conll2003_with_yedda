@@ -19,17 +19,29 @@ Recent [$Katydid#Threat_Actor*] (a.k.a. Operation [@Molerats#Threat_Actor*] or [
   # examlt of output : 
 
 Recent	JJ	B-NP	O
+
 Katydid	NNP	E-NP	S-Threat_Actor
+
 (	(	O	O
+
 a.k.a	NN	S-NP	O
+
 .	.	O	O
+
 Operation	NN	B-NP	O
+
 Molerats	NNPS	E-NP	S-Threat_Actor
+
 or	CC	O	O
+
 Gaza	NNP	B-NP	B-Threat_Actor
+
 Hacker	NNP	I-NP	I-Threat_Actor
+
 Team	NNP	E-NP	E-Threat_Actor
+
 )	)	O	O
+
 
 
 os, re, string, nltk(word_tokenize, postag) are required. good luck
