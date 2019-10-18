@@ -1,0 +1,6 @@
+Recent [$Katydid#Threat_Actor*] (a.k.a. Operation [@Molerats#Threat_Actor*] or [@Gaza Hacker Team#Threat_Actor*]) operations used the [@DustySky#Malware*] malware against [@multiple organizations and industries#Victim_Target*] largely in [@Israel#Victim_Nation*] and [@the United States#Victim_Nation*].
+
+[@DustySky#Malware*] malware, a [@.NET multistage malware#Malware_Category*] tied exclusively to [$Katydid#Threat_Actor*], provides broad [@information theft#Attack_Objective*] capabilities including a [@keylogging#Attack_Vector*] component.
+Given the public disclosure of the malware, [$Katydid#Threat_Actor*] actors will likely revert their operations to commodity [@RATs#Malware_Category*], which DeepSight Intelligence has observed them using in prior operations, while their custom malware is refactored.
+
+The stable targeting priorities and continued operational evolution of [$Katydid#Threat_Actor*], highlighted by the group’s development of the [@DustySky#Malware*] malware, demonstrates the group is increasingly organized and resourceful.

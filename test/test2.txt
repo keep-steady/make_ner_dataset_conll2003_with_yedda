@@ -1,0 +1,7 @@
+According to [@Symantec#Company*] telemetry, threat actors first compromised [$the website of an India-based defense contractor#Victim_product*] on [$25 September 2017#Time_Attack*]; DeepSight Intelligence wrote about the compromise in a 10 October 2017 Intelligence Flash.
+The [@SWC#Attack_Vector*] remained active [$until 13 October 2017#Time_Attack*], allowing the suspected [$PRC-based threat actors#Threat_Actor*] to use [@ScanBox#Malware*] to [@profile users from a variety of organizations#Attack_Objective*].
+
+Targeting in [@ScanBox#Malware*] Operations Align with [@PRC#Attack_Nation*] Interests
+
+The [@ScanBox framework#Malware*] is a [@JavaScript reconnaissance tool#Malware_Category*] first publicly identified in [@August 2014#Time_referenced*] and used to [@identify and collect information on potential targets#Attack_Objective*].
+[$PRC-based threat actors#Threat_Actor*] are most likely responsible for [@ScanBox#Malware*]'s use, based on targeting that aligns with [@China#Victim_Nation*]'s strategic interests and is primarily focused on the [@Asia-Pacific region#Victim_Region*]:
